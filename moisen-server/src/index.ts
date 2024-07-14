@@ -12,7 +12,7 @@ type Bindings = {
 const app = new Hono<{ Bindings: Bindings }>()
 
 app.get('/', (c) => {
-  return c.text('Hello Hono!')
+  return c.text('Hello hayashi!')
 })
 
 app.post('/webhook', async (c) => {
