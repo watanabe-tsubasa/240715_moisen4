@@ -59,7 +59,7 @@ const handleEvent = async (
               {
                 'type': 'uri', // or 'message' depending on your use case
                 'label': '電話に出る',
-                'uri': 'https://240714-moisen-2.pages.dev/'
+                'uri': 'https://liff.line.me/2000869865-q8dvQa3v'
               },
               {
                 'type': 'postback', // Adding a cancel action
